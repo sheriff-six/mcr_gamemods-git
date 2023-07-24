@@ -1,0 +1,7 @@
+"militaryrp"
+{
+	"title"  		"militaryrp"
+	"base"			"base"
+	"maps"			"^rp_"
+   	"menusystem"	"1"
+}

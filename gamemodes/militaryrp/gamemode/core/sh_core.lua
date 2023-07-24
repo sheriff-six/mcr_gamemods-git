@@ -1,0 +1,3 @@
+-- function GM:OnReloaded()
+-- 	swrp.util.PrintLog('Gamemode is reloaded!')
+-- end
